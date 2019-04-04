@@ -6,7 +6,8 @@ It was made as a project for TECHATHON 2019 with ❤️ by Team Error 404 organi
 
 git clone https://github.com/amanmisri/e-Mandi.git
 
-cd e-Mandi
+cd e-Mandi/
+&&
 composer install
 
 Copy the .env.example to .env file and adjust DB_NAME, DB_HOST accordingly.
