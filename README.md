@@ -13,5 +13,6 @@ composer install
 Copy the .env.example to .env file and adjust DB_NAME, DB_HOST accordingly.
 
 Create the database 
+
 $ php artisan serve
 
